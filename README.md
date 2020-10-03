@@ -4,7 +4,7 @@
 	<br>
 	&ldquo; I am a Christian first and mathematician & programmer second &rdquo;
     <p>
-       <a href="https://www.smit.id.au/">
+       <a href="https://www.smit.id.au/" target="_blank" >
           <img src="https://img.shields.io/badge/grizzlysmit-Hi%20I%20am%20GrizzlySmit%20I"m%20a%20programmer%20but%20a%20Christian%20first%20-green" target="_blank">
        </a>
     </p>
