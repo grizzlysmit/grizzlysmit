@@ -12,7 +12,7 @@
 
 <br>
 
-## 🤠 Get Me on
+## 🤠 Contact me on
 
 <div align="left" style="display: flex; justify-content: space-between;">
 	<a href="https://www.facebook.com/grizzlysmit/" target="_blank" >
