@@ -59,7 +59,7 @@
 		<img src="https://img.shields.io/badge/code-python-007396" alt="Python">
 	</a>
 	&emsp;
-	<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" >
+	<a href="https://www.cprogramming.com/" target="_blank" >
 		<img src="https://img.shields.io/badge/code-c%20programming-A8B9CC" alt="C Programming">
 	</a>
 	&emsp;
