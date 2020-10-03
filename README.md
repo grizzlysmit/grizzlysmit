@@ -81,4 +81,4 @@
 	&emsp;
 </div>
 <hr>
-<img src="https://komarev.com/ghpvc/?username=grizzlysmit&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=grizzlysmit">
