@@ -16,7 +16,7 @@
 
 <div align="left" style="display: flex; justify-content: space-between;">
 	<a href="https://www.facebook.com/grizzlysmit/" target="_blank" >
-    	<img src="https://img.shields.io/badge/Facebook-%40grizzlysmit-blue">
+    	<img src="https://img.shields.io/badge/Facebook-Francis%20Grizzly%20Smit-blue">
 	</a>
 	<a href="https://www.instagram.com/grizzlysmit/" target="_blank" >
         <img src="https://img.shields.io/badge/Instagram-%40grizzlysmit-purple">
