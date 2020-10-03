@@ -56,7 +56,7 @@
 	</a>
 	&emsp;
 	<a href="https://www.python.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-python-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=python" alt="Python">
+		<img src="https://img.shields.io/badge/code-python-007396" alt="Python">
 	</a>
 	&emsp;
 	<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" >
@@ -68,7 +68,7 @@
 	</a>
 	&emsp;
 	<a href="https://www.php.net/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php" alt="PHP">
+		<img src="https://img.shields.io/badge/code-php-777BB4" alt="PHP">
 	</a>
 	&emsp;
 	<a href="https://mercurylang.org/" target="_blank" >
