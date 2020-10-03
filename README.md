@@ -16,10 +16,10 @@
 
 <div align="left" style="display: flex; justify-content: space-between;">
 	<a href="https://www.facebook.com/grizzlysmit/" target="_blank" >
-    	<img src="https://img.shields.io/badge/Facebook-https%3A%2F%2Fwww.facebook.com%2Fgrizzlysmit%2F-blue">
+    	<img src="https://img.shields.io/badge/Facebook-%40grizzlysmit-blue">
 	</a>
 	<a href="https://www.instagram.com/grizzlysmit/" target="_blank" >
-        <img src="https://img.shields.io/badge/Instagram-https%3A%2F%2Fwww.instagram.com%2Fgrizzlysmit%2F-purple">
+        <img src="https://img.shields.io/badge/Instagram-%40grizzlysmit-purple">
 	</a>
 	<p>
 	</p>
