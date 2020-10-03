@@ -59,8 +59,8 @@
 		<img src="https://img.shields.io/badge/code-python-007396?logoWidth=30&labelColor=black&style=for-the-badge&logo=python" alt="Python">
 	</a>
 	&emsp;
-	<a href="#" target="_blank" >
-		<img src="https://img.shields.io/badge/code-c%20programming-A8B9CC?logoWidth=30&labelColor=black&style=for-the-badge&logo=c" alt="C Programming">
+	<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" >
+		<img src="https://img.shields.io/badge/code-c%20programming-A8B9CC" alt="C Programming">
 	</a>
 	&emsp;
 	<a href="https://isocpp.org/" target="_blank" >
