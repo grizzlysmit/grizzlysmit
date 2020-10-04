@@ -16,14 +16,14 @@
 [![Django](https://img.shields.io/badge/-Django-333333?style=round&logo=django&logoColor=F05032)](https://www.djangoproject.com/)
 <br>
 [![gvim](https://img.shields.io/badge/-GVim-111111?style=round&logo=vim)](https://www.vim.org/)
-![Android Studio](https://img.shields.io/badge/-Android-111111?style=round&logo=android)
-![Git](https://img.shields.io/badge/-Git-111111?style=round&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-111111?style=round&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-111111?style=round&logo=linux&logoColor=FCC624)
+[![Android Studio](https://img.shields.io/badge/-Android-111111?style=round&logo=android)](https://www.android.com/intl/en_au/)
+[![Git](https://img.shields.io/badge/-Git-111111?style=round&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-111111?style=round&logo=github&logoColor=181717)](https://github.com/)
+[![Linux](https://img.shields.io/badge/-Linux-111111?style=round&logo=linux&logoColor=FCC624)](https://www.linux.org/)
 
 <!-- [![](https://img.shields.io/badge/-Raku-lime?style=round&logo=perl6)](https://www.raku.org/) -->
 
 ### Social:
-***Facebook:*** [Francis Grizzly Smit](https://www.facebook.com/grizzlysmit/)<br>
+***Facebook:*** [![](https://img.shields.io/badge/Facebook-Francis%20Grizzly%20Smit-blue)](https://www.facebook.com/grizzlysmit/)<br>
 ***Intagram:*** [![](https://img.shields.io/badge/Instagram-%40grizzlysmit-purple)](https://www.instagram.com/grizzlysmit/)
 
