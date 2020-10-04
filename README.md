@@ -10,6 +10,8 @@
 [![](https://img.shields.io/badge/-Perl-darkblue?style=round&logo=Perl)](https://www.perl.org/)
 [![](https://img.shields.io/badge/-Fortran-cyan?style=round&logo=css3)](https://www.fortran.com/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=round&logo=latex)](https://www.latex-project.org/)
+[![LaTeX](https://img.shields.io/badge/-Pascal-purple?style=round&logo=pascal)](https://www.freepascal.org/)
+[![LaTeX](https://img.shields.io/badge/-Delphi-purple?style=round&logo=delphi)](https://en.wikipedia.org/wiki/Delphi_(software))
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
 <br>
