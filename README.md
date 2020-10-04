@@ -24,6 +24,6 @@
 <!-- [![](https://img.shields.io/badge/-Raku-lime?style=round&logo=perl6)](https://www.raku.org/) -->
 
 ### Social:
-***Facebook:*** [![](https://img.shields.io/badge/Facebook-Francis%20Grizzly%20Smit-blue)](https://www.facebook.com/grizzlysmit/)<br>
-***Intagram:*** [![](https://img.shields.io/badge/Instagram-%40grizzlysmit-purple)](https://www.instagram.com/grizzlysmit/)
+[![](https://img.shields.io/badge/Facebook-Francis%20Grizzly%20Smit-blue)](https://www.facebook.com/grizzlysmit/)<br>
+[![](https://img.shields.io/badge/Instagram-%40grizzlysmit-purple)](https://www.instagram.com/grizzlysmit/)
 
