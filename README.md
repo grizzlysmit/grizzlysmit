@@ -86,6 +86,6 @@
     -->
 	&emsp;
 </div>
-![LaTeX](https://img.shields.io/badge/-LaTeX-555555)
+[LaTeX](https://img.shields.io/badge/-LaTeX-555555)
 <hr>
 <img src="https://komarev.com/ghpvc/?username=grizzlysmit">
