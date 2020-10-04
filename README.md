@@ -79,7 +79,6 @@
 		<img src="https://img.shields.io/badge/code-Prolog-yellow" alt="Prolog">
 	</a>
 	&emsp;
-![LaTeX](https://img.shields.io/badge/Typeseting-LaTeX-555555)
     <!--
 	<a href="https://www.latex-project.org/" target="_blank" >
 		<img src="https://img.shields.io/badge/code-LaTeX-green" alt="LaTeX">
@@ -87,5 +86,6 @@
     -->
 	&emsp;
 </div>
+![LaTeX](https://img.shields.io/badge/Typeseting-LaTeX-555555)
 <hr>
 <img src="https://komarev.com/ghpvc/?username=grizzlysmit">
