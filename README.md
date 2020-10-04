@@ -1,91 +1,25 @@
-# 🤠 Hello I'm Grizzly
-<div style="font-size:1.2em">
-	<b>Progarmmer in many laguages</b>
-	<br>
-	&ldquo; I am a Christian first and mathematician & programmer second &rdquo;
-    <p>
-       <a href="https://www.smit.id.au/" target="_blank" >
-          <img src="https://img.shields.io/badge/grizzlysmit-Hi%20I%20am%20GrizzlySmit%20I"m%20a%20programmer%20but%20a%20Christian%20first%20-green" target="_blank">
-       </a>
-    </p>
-</div>
+### 🤠 Hi, I'm [grizzlysmit](https://www.smit.id.au/)!
+&ldquo; I am a Christian first and mathematician & programmer second &rdquo;
 
+### Languages, Frameworks and Tools I use and I have worked with:
+![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-555555?style=round&logo=c)
+![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-555555?style=flat&logo=mysql)
+[![](https://img.shields.io/badge/-Raku-lime?style=round&logo=java)](https://www.raku.org/)
+[![](https://img.shields.io/badge/-Perl-darkblue?style=round&logo=Perl)](https://www.perl.org/)
+[![](https://img.shields.io/badge/-Fortran-cyan?style=round&logo=css3)](https://www.fortran.com/)
+![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=flat&logo=latex)
 <br>
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=F05032)
+<br>
+![gvim](https://img.shields.io/badge/-GVim-111111?style=round&logo=Raku)
+![Android Studio](https://img.shields.io/badge/-Android-111111?style=flat-square&logo=android)
+![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-111111?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
 
-## 🤠 Contact me on
+### Social:
+***Facebook:*** [Francis Grizzly Smit](https://www.facebook.com/grizzlysmit/)<br>
+***Intagram:*** [![](https://img.shields.io/badge/Instagram-%40grizzlysmit-purple)](https://www.instagram.com/grizzlysmit/)
 
-<div align="left" style="display: flex; justify-content: space-between;">
-	<a href="https://www.facebook.com/grizzlysmit/" target="_blank" >
-    	<img src="https://img.shields.io/badge/Facebook-Francis%20Grizzly%20Smit-blue">
-	</a>
-	<a href="https://www.instagram.com/grizzlysmit/" target="_blank" >
-        <img src="https://img.shields.io/badge/Instagram-%40grizzlysmit-purple">
-	</a>
-	<p>
-	</p>
-</div>
-
-<hr>
-
-## 🔧 Langs / Tools / Frameworks
-
-<div align="left" style="display: flex; justify-content: space-between;">
-	<!-- Programming Languages. -->
-	<a href="https://www.raku.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-Raku-lime" alt="Raku">
-	</a>
-	&emsp;
-	<a href="https://www.perl.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-Perl-darkblue" alt="Perl">
-	</a>
-	&emsp;
-	<a href="https://www.fortran.com/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-Fortran-cyan" alt="Fortran">
-	</a>
-	&emsp;
-	<a href="https://elv.sh/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-Elvish-green" alt="Elvish">
-	</a>
-	&ensp;
-	<a href="https://www.freepascal.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-Pascal-purple" alt="Pascal">
-	</a>
-	&emsp;
-	<a href="https://lisp-lang.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-Lisp-blue" alt="Lisp">
-	</a>
-	&emsp;
-	<a href="https://www.python.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-python-007396" alt="Python">
-	</a>
-	&emsp;
-	<a href="https://www.cprogramming.com/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-c%20programming-A8B9CC" alt="C Programming">
-	</a>
-	&emsp;
-	<a href="https://isocpp.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-c%2B%2B-00599C" alt="C++">
-	</a>
-	&emsp;
-	<a href="https://www.php.net/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-php-777BB4" alt="PHP">
-	</a>
-	&emsp;
-	<a href="https://mercurylang.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-Mercury-blue" alt="Mercury">
-	</a>
-	&emsp;
-	<a href="http://www.gprolog.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-Prolog-yellow" alt="Prolog">
-	</a>
-	&emsp;
-    <!--
-	<a href="https://www.latex-project.org/" target="_blank" >
-		<img src="https://img.shields.io/badge/code-LaTeX-green" alt="LaTeX">
-	</a>
-    -->
-	&emsp;
-</div>
-[LaTeX](https://img.shields.io/badge/-LaTeX-555555)
-<hr>
-<img src="https://komarev.com/ghpvc/?username=grizzlysmit">
