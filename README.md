@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/-C++-555555?style=round&logo=C%2B%2B)](https://isocpp.org/)
 [![SQL](https://img.shields.io/badge/-SQL-555555?style=round&logo=mariadb)](https://mariadb.org/)
 [![SQL](https://img.shields.io/badge/-SQL-555555?style=round&logo=postgresql)](https://www.postgresql.org/)
-[![](images/Camelia32x30.png)](https://www.raku.org/)
+[![](images/Camelia22x21.png)](https://www.raku.org/)
 [![](https://img.shields.io/badge/-Raku-lime?style=round&logo=perl6)](https://www.raku.org/)
 [![](https://img.shields.io/badge/-Perl-darkblue?style=round&logo=Perl)](https://www.perl.org/)
 [![](https://img.shields.io/badge/-Fortran-cyan?style=round&logo=css3)](https://www.fortran.com/)
