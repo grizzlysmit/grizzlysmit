@@ -8,7 +8,6 @@
 [![SQL](https://img.shields.io/badge/-SQL-555555?style=round&logo=mariadb)](https://mariadb.org/)
 [![SQL](https://img.shields.io/badge/-SQL-555555?style=round&logo=postgresql)](https://www.postgresql.org/)
 [![](images/raku-small.png)](https://www.raku.org/)
-<!-- [![](https://img.shields.io/badge/-Raku-lime?style=round&logo=perl6)](https://www.raku.org/) -->
 [![](https://img.shields.io/badge/-Perl-darkblue?style=round&logo=Perl)](https://www.perl.org/)
 [![](https://img.shields.io/badge/-Fortran-cyan?style=round&logo=css3)](https://www.fortran.com/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=round&logo=latex)](https://www.latex-project.org/)
@@ -20,6 +19,8 @@
 ![Git](https://img.shields.io/badge/-Git-111111?style=round&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-111111?style=round&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-111111?style=round&logo=linux&logoColor=FCC624)
+
+<!-- [![](https://img.shields.io/badge/-Raku-lime?style=round&logo=perl6)](https://www.raku.org/) -->
 
 ### Social:
 ***Facebook:*** [Francis Grizzly Smit](https://www.facebook.com/grizzlysmit/)<br>
