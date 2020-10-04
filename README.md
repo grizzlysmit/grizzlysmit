@@ -10,9 +10,9 @@
 [![](https://img.shields.io/badge/-Raku-lime?style=round&logo=java)](https://www.raku.org/)
 [![](https://img.shields.io/badge/-Perl-darkblue?style=round&logo=Perl)](https://www.perl.org/)
 [![](https://img.shields.io/badge/-Fortran-cyan?style=round&logo=css3)](https://www.fortran.com/)
-![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=round&logo=latex)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=round&logo=latex)](https://www.latex-project.org/)
 <br>
-![Django](https://img.shields.io/badge/-Django-333333?style=round&logo=django&logoColor=F05032)
+[![Django](https://img.shields.io/badge/-Django-333333?style=round&logo=django&logoColor=F05032)](https://www.djangoproject.com/)
 <br>
 ![gvim](https://img.shields.io/badge/-GVim-111111?style=round&logo=Raku)
 ![Android Studio](https://img.shields.io/badge/-Android-111111?style=round&logo=android)
