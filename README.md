@@ -13,6 +13,7 @@
 [![](https://img.shields.io/badge/-Pascal-purple?style=round&logo=https://www.freepascal.org/favicon.ico)](https://www.freepascal.org/)
 [![](https://img.shields.io/badge/-Delphi-purple?style=round&logo=delphi)](https://en.wikipedia.org/wiki/Delphi_(software))
 [![](https://img.shields.io/badge/-Lazarus-purple?style=round&logo=lazarus)](https://www.lazarus-ide.org/)
+[![](https://img.shields.io/badge/-Mercury-blue?style=round&logo=mercury)](https://mercurylang.org/)
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
 <br>
