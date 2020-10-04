@@ -14,6 +14,7 @@
 [![](https://img.shields.io/badge/-Delphi-purple?style=round&logo=delphi)](https://en.wikipedia.org/wiki/Delphi_(software))
 [![](https://img.shields.io/badge/-Lazarus-purple?style=round&logo=lazarus)](https://www.lazarus-ide.org/)
 [![](https://img.shields.io/badge/-Mercury-blue?style=round&logo=mercury)](https://mercurylang.org/)
+[![](https://img.shields.io/badge/-Prolog-yellow?style=round&logo=prolog)](http://www.gprolog.org/)
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
 <br>
