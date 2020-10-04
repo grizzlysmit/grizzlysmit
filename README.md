@@ -7,10 +7,11 @@
 [![](https://img.shields.io/badge/-C++-555555?style=round&logo=C%2B%2B)](https://isocpp.org/)
 [![SQL](https://img.shields.io/badge/-SQL-555555?style=round&logo=mariadb)](https://mariadb.org/)
 [![SQL](https://img.shields.io/badge/-SQL-555555?style=round&logo=postgresql)](https://www.postgresql.org/)
-[![](images/raku-small.png)](https://www.raku.org/)
 [![](https://img.shields.io/badge/-Perl-darkblue?style=round&logo=Perl)](https://www.perl.org/)
 [![](https://img.shields.io/badge/-Fortran-cyan?style=round&logo=css3)](https://www.fortran.com/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=round&logo=latex)](https://www.latex-project.org/)
+<br>
+[![](images/raku-small.png)](https://www.raku.org/)
 <br>
 [![Django](https://img.shields.io/badge/-Django-333333?style=round&logo=django&logoColor=F05032)](https://www.djangoproject.com/)
 <br>
