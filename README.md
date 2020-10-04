@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-Perl-darkblue?style=round&logo=Perl)](https://www.perl.org/)
 [![](https://img.shields.io/badge/-Fortran-cyan?style=round&logo=css3)](https://www.fortran.com/)
 [![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=round&logo=latex)](https://www.latex-project.org/)
-[![](https://img.shields.io/badge/-Pascal-purple?style=round&logo=https://www.freepascal.org/favicon.ico)](https://www.freepascal.org/)
+[![](https://img.shields.io/badge/-Pascal-purple?style=round&logo=https%3A%2F%2Fwww.freepascal.org%2Ffavicon.ico)](https://www.freepascal.org/)
 [![](https://img.shields.io/badge/-Delphi-purple?style=round&logo=delphi)](https://en.wikipedia.org/wiki/Delphi_(software))
 [![](https://img.shields.io/badge/-Lazarus-purple?style=round&logo=lazarus)](https://www.lazarus-ide.org/)
 [![](https://img.shields.io/badge/-Mercury-blue?style=round&logo=mercury)](https://mercurylang.org/)
