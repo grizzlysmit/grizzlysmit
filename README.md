@@ -31,4 +31,6 @@
 ### Social Media:
 [![](https://img.shields.io/badge/Facebook-Francis%20Grizzly%20Smit-blue)](https://www.facebook.com/grizzlysmit/)<br>
 [![](https://img.shields.io/badge/Instagram-%40grizzlysmit-purple)](https://www.instagram.com/grizzlysmit/)
+<br>
+![count](https://komarev.com/ghpvc/?username=grizzlysmit)
 
