@@ -17,10 +17,12 @@
 [![](https://img.shields.io/badge/-Prolog-yellow?style=round&logo=prolog)](http://www.gprolog.org/)
 [![](https://img.shields.io/badge/-Lisp-blue?style=round&logo=lisp)](https://lisp-lang.org/)
 [![](https://img.shields.io/badge/-Kotlin-purple?style=round&logo=kotlin)](https://kotlinlang.org/)
-[![](https://img.shields.io/badge/-BASH-black?style=round&logo=bash)](https://www.gnu.org/software/bash/manual/bash.html)
-[![](https://img.shields.io/badge/-Elvish-green?style=round&logo=elvish)](https://elv.sh/)
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
+<br>
+Shells
+[![](https://img.shields.io/badge/-BASH-black?style=round&logo=bash)](https://www.gnu.org/software/bash/manual/bash.html)
+[![](https://img.shields.io/badge/-Elvish-green?style=round&logo=elvish)](https://elv.sh/)
 <br>
 [![Django](https://img.shields.io/badge/-Django-333333?style=round&logo=django&logoColor=F05032)](https://www.djangoproject.com/)
 <br>
