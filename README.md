@@ -34,7 +34,7 @@
 #### Tools:
 
 [![gvim](https://img.shields.io/badge/-GVim-111111?style=round&logo=vim)](https://www.vim.org/)
-[![Android Studio](https://img.shields.io/badge/-Android+Studio-111111?style=round&logo=android)](https://www.android.com/)
+[![Android Studio](https://img.shields.io/badge/-Android+Studio-111111?style=round&logo=android)](https://developer.android.com/studio/intro)
 [![Git](https://img.shields.io/badge/-Git-111111?style=round&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-111111?style=round&logo=github&logoColor=181717)](https://github.com/)
 [![Linux](https://img.shields.io/badge/-Linux-111111?style=round&logo=linux&logoColor=FCC624)](https://www.linux.org/)
