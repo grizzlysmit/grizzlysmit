@@ -2,6 +2,8 @@
 &ldquo; I am a Christian first and mathematician & programmer second &rdquo;
 
 ### Languages, Frameworks and Tools I use and I have worked with:
+
+#### languages:
 [![](https://img.shields.io/badge/-Python-555555?style=round&logo=Python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-C-555555?style=round&logo=c)](https://www.cprogramming.com/)
 [![](https://img.shields.io/badge/-C++-555555?style=round&logo=C%2B%2B)](https://isocpp.org/)
@@ -20,15 +22,19 @@
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
 <br>
-<h3>Shells:<h3>
+#### Shells:
 
 [![](https://img.shields.io/badge/-BASH-black?style=round&logo=bash)](https://www.gnu.org/software/bash/manual/bash.html)
 [![](https://img.shields.io/badge/-Elvish-green?style=round&logo=elvish)](https://elv.sh/)
 <br>
+#### Frameworks:
+
 [![Django](https://img.shields.io/badge/-Django-333333?style=round&logo=django&logoColor=F05032)](https://www.djangoproject.com/)
 <br>
+#### Tools:
+
 [![gvim](https://img.shields.io/badge/-GVim-111111?style=round&logo=vim)](https://www.vim.org/)
-[![Android Studio](https://img.shields.io/badge/-Android-111111?style=round&logo=android)](https://www.android.com/)
+[![Android Studio](https://img.shields.io/badge/-Android+Studio-111111?style=round&logo=android)](https://www.android.com/)
 [![Git](https://img.shields.io/badge/-Git-111111?style=round&logo=git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-111111?style=round&logo=github&logoColor=181717)](https://github.com/)
 [![Linux](https://img.shields.io/badge/-Linux-111111?style=round&logo=linux&logoColor=FCC624)](https://www.linux.org/)
