@@ -19,6 +19,7 @@
 [![](https://img.shields.io/badge/-Prolog-yellow?style=round&logo=prolog)](http://www.gprolog.org/)
 [![](https://img.shields.io/badge/-Lisp-blue?style=round&logo=lisp)](https://lisp-lang.org/)
 [![](https://img.shields.io/badge/-Kotlin-purple?style=round&logo=kotlin)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/-Raku-green?style=round&logo=raku)](https://www.raku.org/)
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
 <br>
