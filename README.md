@@ -20,9 +20,9 @@
 [![](https://img.shields.io/badge/-Lisp-blue?style=round&logo=lisp)](https://lisp-lang.org/)
 [![](https://img.shields.io/badge/-Kotlin-purple?style=round&logo=kotlin)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-Raku-green?style=round&logo=raku)](https://www.raku.org/)
-[![](https://img.shields.io/badge/-Odin-blue?style=round&logo=raku)](https://odin-lang.org/)
-[![](https://img.shields.io/badge/-C3-blue?style=round&logo=raku)](https://c3-lang.org/)
-[![](https://img.shields.io/badge/-Typst-cyan?style=round&logo=raku)](https://typst.app/)
+[![](https://img.shields.io/badge/-Odin-blue?style=round&logo=odin)](https://odin-lang.org/)
+[![](https://img.shields.io/badge/-C3-blue?style=round&logo=c3)](https://c3-lang.org/)
+[![](https://img.shields.io/badge/-Typst-cyan?style=round&logo=typst)](https://typst.app/)
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
 <br>
@@ -33,6 +33,7 @@
 <br>
 #### Frameworks:
 
+[![Django](https://img.shields.io/badge/-Gtk-333333?style=round&logo=gtk&logoColor=F05032)](https://www.gtk.org/)
 [![Django](https://img.shields.io/badge/-Django-333333?style=round&logo=django&logoColor=F05032)](https://www.djangoproject.com/)
 <br>
 #### Tools:
