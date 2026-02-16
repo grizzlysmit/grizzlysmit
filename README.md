@@ -20,6 +20,8 @@
 [![](https://img.shields.io/badge/-Lisp-blue?style=round&logo=lisp)](https://lisp-lang.org/)
 [![](https://img.shields.io/badge/-Kotlin-purple?style=round&logo=kotlin)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-Raku-green?style=round&logo=raku)](https://www.raku.org/)
+[![](https://img.shields.io/badge/-Odin-blue?style=round&logo=raku)](https://odin-lang.org/)
+[![](https://img.shields.io/badge/-C3-blue?style=round&logo=raku)](https://c3-lang.org/)
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
 <br>
