@@ -22,6 +22,7 @@
 [![](https://img.shields.io/badge/-Raku-green?style=round&logo=raku)](https://www.raku.org/)
 [![](https://img.shields.io/badge/-Odin-blue?style=round&logo=raku)](https://odin-lang.org/)
 [![](https://img.shields.io/badge/-C3-blue?style=round&logo=raku)](https://c3-lang.org/)
+[![](https://img.shields.io/badge/-Typst-dark-cyan?style=round&logo=raku)](https://typst.app/)
 <br>
 [![](images/raku-small.png)](https://www.raku.org/)
 <br>
